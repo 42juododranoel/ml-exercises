@@ -2,6 +2,10 @@
 
 ## Supervised
 
+### Classification
+
+1. [Naive Bayes](supervised/classification/naive_bayes.ipynb)
+
 ## Unsupervised
 
 ### Clustering
