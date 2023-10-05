@@ -6,4 +6,4 @@
 
 ### Clustering
 
-1. K-means Clustering
+1. [K-Means](unsupervised/clustering/kmeans.ipynb)
