@@ -1,4 +1,4 @@
-# Python Machine Learning & Natural Language Processing Exercises
+# Python ML & NLP Exercises
 
 ## Supervised
 
