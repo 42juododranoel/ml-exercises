@@ -1,17 +1,19 @@
 # Python ML & NLP Exercises
 
-## Supervised
+## Machine Learning
 
-### Classification
+### Supervised
+
+#### Classification
 
 1. [Gaussian Naive Bayes](supervised/classification/naive_bayes.ipynb)
 
-### Regression
+#### Regression
 
 1. [Univariate Linear Regression](supervised/regression/linear_regression.ipynb)
 
-## Unsupervised
+### Unsupervised
 
-### Clustering
+#### Clustering
 
 1. [K-Means](unsupervised/clustering/kmeans.ipynb)
