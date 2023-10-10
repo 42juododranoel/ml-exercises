@@ -23,7 +23,7 @@
 
 ## Natural Language Processing
 
-1. [Tokenizing](natural-language-procesing/tokenizing.ipynb)
+1. [Tokenizing](natural-language-processing/tokenizing.ipynb)
 2. Lemmatize
 3. Stopwords
 4. Stemming
