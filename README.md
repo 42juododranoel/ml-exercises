@@ -6,24 +6,24 @@
 
 #### Classification
 
-1. [Gaussian Naive Bayes](supervised/classification/naive_bayes.ipynb)
+1. [Gaussian Naive Bayes](machine-learning/supervised/classification/naive_bayes.ipynb)
 
 #### Regression
 
-1. [Univariate Linear Regression](supervised/regression/linear_regression.ipynb)
+1. [Univariate Linear Regression](machine-learning/supervised/regression/linear_regression.ipynb)
 2. Multivariate Linear Regression
 
 ### Unsupervised
 
 #### Clustering
 
-1. [K-Means](unsupervised/clustering/kmeans.ipynb)
+1. [K-Means](machine-learning/unsupervised/clustering/kmeans.ipynb)
 2. Affinity Propagation
 3. Mean Shift
 
 ## Natural Language Processing
 
-1. Tokenize
+1. [Tokenizing](natural-language-procesing/tokenizing.ipynb)
 2. Lemmatize
 3. Stopwords
 4. Stemming
